@@ -17,7 +17,7 @@ Prediction: An End-to-end Framework with Transaction Data*; it is NP-hard.
 | Field | Description |
 |---|---|
 | `Problem ID` | Unique instance identifier (1–240) |
-| `Text Description` | Natural-language problem statement — the common text in `text_description.md`, prefixed with this instance's $n$ and $m$ |
+| `Text Description` | Natural-language problem statement|
 | `Domain` | `Revenue Management` |
 | `Dataset_address` | Path to the instance's input CSV (`Data/n../m..._..csv`) |
 | `Optimal Value` | Ground-truth optimal objective value $R(S^\star)$ |
