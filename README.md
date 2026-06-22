@@ -25,12 +25,12 @@ Prediction: An End-to-end Framework with Transaction Data*; it is NP-hard.
 
 ## Instances
 
-240 instances on the grid **n ∈ {4, 6, 8, 10}** products × **m ∈ {50, 100, 200}** transactions,
+180 instances on the grid **n ∈ {10, 20, 30}** products × **m ∈ {100, 200, 300}** transactions,
 with **20 instances per (n, m)**. Each instance is one self-contained CSV under `Data/`:
 
 ```
-Data/n04/m050_01.csv … m050_20.csv  m100_01.csv … m200_20.csv
-Data/n06/ …   Data/n08/ …   Data/n10/ …
+Data/n10/m100_01.csv … m100_20.csv  m200_01.csv … m300_20.csv
+Data/n20/ …   Data/n30/ …
 ```
 
 **Data format.** Every row of an instance CSV is one transaction, with columns
@@ -72,13 +72,14 @@ The transaction data are synthetic, produced by `generate_benchmark.py`. For eac
 3. **Transactions.** For each of the `m` records, offer each product independently with probability
    `0.5` (resampling to guarantee at least one offered product), then draw the customer's choice
    from the MNL distribution over the offered products plus the no-purchase option.
-4. **Selection.** Compute the certified optimum and keep the instance only if its optimal assortment
+4. **Selection.** Compute the optimum (Benders) and keep the instance only if its optimal assortment
    contains the most profitable product (product `1`) and is not the full set; among candidate seeds
    we prefer instances whose optimum beats the revenue-ordered and offer-all heuristics by ≥ 3%.
    Seeds are scanned deterministically and duplicate datasets are skipped.
-5. **Certification.** Each kept instance's optimum is computed by exhaustive `2^n` brute force and
-   cross-checked against the direct MIP (`solver_direct.py`); a sample is also checked with the
-   Benders solver. The recorded `Optimal Value` / `Optimal Solution` are these certified values.
+5. **Certification.** The optimum is computed with the Benders solver (`solver_benders.py`) and
+   certified independently: by exhaustive `2^n` brute force for every `n = 10` instance, and by the
+   SP-I MILP (`solver_direct.py`) on a sample of the larger instances. The recorded `Optimal Value`
+   / `Optimal Solution` are these certified values.
 
 Re-running `python generate_benchmark.py` rebuilds the full `Data/` tree and `OR-Bench Dataset.csv`
 from fixed seeds. The answer to each instance is the optimum of the **data-driven** problem on the
@@ -99,8 +100,8 @@ Working Gurobi (Python) solvers, one per formulation:
 - `solver_benders.py` — solves via Benders / branch-and-cut.
 
 **Setup.** Python 3 with the packages in `requirements.txt` (`gurobipy`, `numpy`). Gurobi requires
-a license — a free academic license is available at gurobi.com; the instances here ($n \le 10$) also
-solve under Gurobi's restricted trial license.
+a license — a free academic license is available at gurobi.com. (The Benders solver stays small
+enough for Gurobi's restricted trial license; the larger SP-I models need a full/academic license.)
 
 ```bash
 pip install -r requirements.txt
@@ -109,8 +110,8 @@ pip install -r requirements.txt
 **Run a solver on any instance** (pass the single instance CSV):
 
 ```bash
-python solver_direct.py  Data/n08/m100_01.csv
-python solver_benders.py Data/n08/m100_01.csv
+python solver_direct.py  Data/n10/m100_01.csv
+python solver_benders.py Data/n10/m100_01.csv
 ```
 
 The solver reads the instance CSV, solves the model, and prints the optimal value and assortment
@@ -120,12 +121,12 @@ The solver reads the instance CSV, solves the model, and prints the optimal valu
 Each prints the optimal value $R(S^\star)$ and the optimal assortment $S^\star$. Example output:
 
 ```json
-{ "n": 8, "m": 100, "optimal_value": 2.61, "optimal_solution": "S* = {2, 4, 6}" }
+{ "n": 10, "m": 100, "optimal_value": 2.6091, "optimal_solution": "S* = {1, 2, 3, 5}" }
 ```
 
 **Regenerate everything:** `python generate_benchmark.py` rebuilds `Data/` and
-`OR-Bench Dataset.csv` from scratch and certifies every instance (brute force == direct MIP, with
-Benders cross-checks).
+`OR-Bench Dataset.csv` from scratch (Benders optimizer, certified by brute force at `n = 10` and the
+SP-I MILP on a sample).
 
 ## Reference
 
