@@ -1,7 +1,7 @@
 """
-Build the OR-Bench submission package for the Data-Driven Assortment problem.
+Build the End-to-End Assortment Benchmark package for the data-driven assortment problem.
 
-    OR-Bench Dataset.csv          # Problem ID, Text Description, Domain,
+    dataset.csv                   # Problem ID, Text Description, Domain,
                                   #   Dataset_address, Optimal Value, Optimal Solution
     Data/
       n10/ m100_01.csv ... m300_20.csv      (one self-contained CSV per instance)
@@ -150,7 +150,7 @@ def main():
                 })
         print(f"n={n} done")
 
-    out_csv = os.path.join(HERE, "OR-Bench Dataset.csv")
+    out_csv = os.path.join(HERE, "dataset.csv")
     with open(out_csv, "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=["Problem ID", "Text Description", "Domain",
                                            "Dataset_address", "Optimal Value", "Optimal Solution"])

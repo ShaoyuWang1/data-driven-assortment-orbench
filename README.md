@@ -1,4 +1,4 @@
-# Data-Driven Assortment Optimization — OR-Bench Contribution
+# End-to-End Assortment Benchmark
 
 ## Overview
 
@@ -12,7 +12,7 @@ Prediction: An End-to-end Framework with Transaction Data*; it is NP-hard.
 
 ## What the dataset contains
 
-`OR-Bench Dataset.csv` has one row per instance with the standard OR-Bench fields:
+`dataset.csv`, one row per instance:
 
 | Field | Description |
 |---|---|
@@ -81,7 +81,7 @@ The transaction data are synthetic, produced by `generate_benchmark.py`. For eac
    SP-I MILP (`solver_direct.py`) on a sample of the larger instances. The recorded `Optimal Value`
    / `Optimal Solution` are these certified values.
 
-Re-running `python generate_benchmark.py` rebuilds the full `Data/` tree and `OR-Bench Dataset.csv`
+Re-running `python generate_benchmark.py` rebuilds the full `Data/` tree and `dataset.csv`
 from fixed seeds. The answer to each instance is the optimum of the **data-driven** problem on the
 transactions, which need not coincide with the optimal assortment of the hidden MNL that produced
 the data.
@@ -125,10 +125,15 @@ Each prints the optimal value $R(S^\star)$ and the optimal assortment $S^\star$.
 ```
 
 **Regenerate everything:** `python generate_benchmark.py` rebuilds `Data/` and
-`OR-Bench Dataset.csv` from scratch (Benders optimizer, certified by brute force at `n = 10` and the
+`dataset.csv` from scratch (Benders optimizer, certified by brute force at `n = 10` and the
 SP-I MILP on a sample).
 
 ## Reference
 
-N. Chen, A. Cire, P. Gao, S. Wang. *Assortment Optimization without Prediction: An End-to-end
-Framework with Transaction Data.*
+This benchmark is built on the problem of:
+
+> Ningyuan Chen, Andre A. Cire, Pin Gao, Shaoyu Wang. **Assortment Optimization without Prediction:
+> An End-to-end Framework with Transaction Data.**
+
+The (SP-I) MILP and Benders formulations and their solvers in this repository are our own
+implementation of the model in that paper. Please cite the paper above if you use this benchmark.
