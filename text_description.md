@@ -7,4 +7,5 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it.
+count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based).
