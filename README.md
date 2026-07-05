@@ -77,7 +77,8 @@ Here is the instance data (one row per transaction; columns price_1..price_n, of
 <contents of Data/n10/m100_01.csv>
 
 Report the optimal assortment (which products to offer) and the resulting optimal value, ending with
-one line `ASSORTMENT=[...]` (a JSON array of offered product indices).
+two lines `ASSORTMENT=[...]` (a JSON array of offered product indices) and `VALUE=<v>` (the optimal
+value).
 ```
 
 **Or via an API** (Anthropic Python SDK shown; any provider works the same way):
@@ -91,7 +92,7 @@ prompt = (
     + "\n\nHere is the instance data (CSV):\n\n"
     + open("Data/n10/m100_01.csv").read()
     + "\n\nReport the optimal assortment and the resulting optimal value,"
-      " ending with one line ASSORTMENT=[...] (a JSON array of offered product indices)."
+      " ending with two lines ASSORTMENT=[...] (a JSON array of offered product indices) and VALUE=<v> (the optimal value)."
 )
 resp = client.messages.create(
     model="claude-sonnet-5",          # or any capable model / provider

@@ -8,8 +8,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_01.csv,2.6091,"S* = {1, 2, 3, 5}"
 2,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -20,8 +20,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_02.csv,2.277,"S* = {1, 2, 4}"
 3,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -32,8 +32,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_03.csv,2.2541,"S* = {1, 2, 3, 4, 5, 7, 9, 10}"
 4,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -44,8 +44,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_04.csv,2.5525,"S* = {1, 2, 3, 4, 6}"
 5,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -56,8 +56,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_05.csv,3.1154,"S* = {1, 2, 3, 4, 5, 6, 7, 9}"
 6,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -68,8 +68,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_06.csv,3.8695,"S* = {1, 2, 3, 4, 5, 6, 8}"
 7,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -80,8 +80,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_07.csv,4.6111,"S* = {1, 2, 3, 4, 5, 6, 7, 8}"
 8,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -92,8 +92,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_08.csv,2.808,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10}"
 9,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -104,8 +104,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_09.csv,4.4757,"S* = {1, 2, 3, 4, 5, 7}"
 10,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -116,8 +116,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_10.csv,2.3146,"S* = {1, 2, 3, 4, 5, 6, 8, 9, 10}"
 11,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -128,8 +128,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_11.csv,2.2414,"S* = {1, 2, 3, 5, 7}"
 12,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -140,8 +140,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_12.csv,3.3559,"S* = {1, 2, 3, 4, 6}"
 13,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -152,8 +152,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_13.csv,3.0395,"S* = {1, 2, 3, 4, 5, 9}"
 14,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -164,8 +164,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_14.csv,2.9198,"S* = {1, 2, 3, 4, 7, 8, 9}"
 15,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -176,8 +176,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_15.csv,1.988,"S* = {1, 2, 3, 5}"
 16,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -188,8 +188,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_16.csv,2.8306,"S* = {1, 2, 3, 5}"
 17,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -200,8 +200,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_17.csv,4.4832,"S* = {1, 2, 3, 4, 5, 6, 7, 8}"
 18,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -212,8 +212,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_18.csv,3.3038,"S* = {1, 2, 3, 5}"
 19,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -224,8 +224,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_19.csv,4.0936,"S* = {1, 2, 3, 4, 5, 6}"
 20,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -236,8 +236,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m100_20.csv,1.8584,"S* = {1, 2, 3, 4, 6}"
 21,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -248,8 +248,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_01.csv,3.6296,"S* = {1, 2, 3, 4, 5, 8}"
 22,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -260,8 +260,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_02.csv,2.9179,"S* = {1, 2, 3, 4, 6, 7}"
 23,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -272,8 +272,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_03.csv,2.9283,"S* = {1, 2, 3, 4, 6}"
 24,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -284,8 +284,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_04.csv,2.41545,"S* = {1, 2, 3, 4, 5, 7}"
 25,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -296,8 +296,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_05.csv,3.17445,"S* = {1, 2, 3, 4, 5, 6}"
 26,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -308,8 +308,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_06.csv,3.21805,"S* = {1, 2, 3, 5, 6}"
 27,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -320,8 +320,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_07.csv,4.35115,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9}"
 28,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -332,8 +332,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_08.csv,2.63515,"S* = {1, 2, 3, 4, 5, 6}"
 29,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -344,8 +344,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_09.csv,2.50525,"S* = {1, 2, 3, 4, 5, 6, 7, 8}"
 30,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -356,8 +356,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_10.csv,2.8227,"S* = {1, 2, 3, 4, 6}"
 31,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -368,8 +368,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_11.csv,2.0842,"S* = {1, 2, 3, 4, 5, 7, 8, 9}"
 32,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -380,8 +380,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_12.csv,3.2345,"S* = {1, 2, 3, 5}"
 33,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -392,8 +392,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_13.csv,4.0348,"S* = {1, 2, 3, 4, 5, 6, 7}"
 34,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -404,8 +404,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_14.csv,2.788,"S* = {1, 2, 3, 4, 5, 6, 9}"
 35,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -416,8 +416,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_15.csv,2.9532,"S* = {1, 2, 3, 4, 5, 6, 8}"
 36,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -428,8 +428,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_16.csv,4.65435,"S* = {1, 2, 3, 4, 5, 6, 8}"
 37,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -440,8 +440,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_17.csv,1.96235,"S* = {1, 2, 3, 4, 5, 7, 8}"
 38,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -452,8 +452,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_18.csv,2.8574,"S* = {1, 2, 3, 4, 5, 6, 7}"
 39,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -464,8 +464,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_19.csv,3.2572,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9}"
 40,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -476,8 +476,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m200_20.csv,3.051,"S* = {1, 2, 3, 4, 5, 6, 8, 9, 10}"
 41,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -488,8 +488,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_01.csv,3.195533,"S* = {1, 2, 3, 4, 5, 6, 7, 8}"
 42,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -500,8 +500,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_02.csv,3.6756,"S* = {1, 2, 3, 4, 5, 6, 7, 8}"
 43,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -512,8 +512,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_03.csv,3.7749,"S* = {1, 2, 3, 4, 5, 6, 7}"
 44,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -524,8 +524,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_04.csv,3.1151,"S* = {1, 2, 3, 4, 5, 6}"
 45,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -536,8 +536,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_05.csv,3.129133,"S* = {1, 2, 3, 4, 5, 6, 7}"
 46,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -548,8 +548,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_06.csv,3.2383,"S* = {1, 2, 3, 4, 5, 6, 7, 8}"
 47,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -560,8 +560,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_07.csv,2.851833,"S* = {1, 2, 3, 4, 5, 6, 7}"
 48,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -572,8 +572,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_08.csv,3.1425,"S* = {1, 2, 3, 4, 5, 6, 7}"
 49,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -584,8 +584,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_09.csv,3.1435,"S* = {1, 2, 3, 4}"
 50,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -596,8 +596,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_10.csv,2.2954,"S* = {1, 2, 3, 6}"
 51,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -608,8 +608,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_11.csv,3.707,"S* = {1, 2, 3, 4, 5, 6, 7, 8}"
 52,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -620,8 +620,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_12.csv,3.577433,"S* = {1, 2, 3, 4, 5, 6, 8}"
 53,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -632,8 +632,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_13.csv,2.650433,"S* = {1, 2, 3, 4, 5, 7, 8}"
 54,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -644,8 +644,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_14.csv,2.519,"S* = {1, 2, 3, 5}"
 55,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -656,8 +656,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_15.csv,2.760267,"S* = {1, 2, 3, 4, 5, 6, 7}"
 56,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -668,8 +668,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_16.csv,2.133567,"S* = {1, 2, 3, 4, 6}"
 57,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -680,8 +680,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_17.csv,3.328567,"S* = {1, 2, 3, 4, 5, 7}"
 58,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -692,8 +692,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_18.csv,3.9561,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9}"
 59,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -704,8 +704,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_19.csv,3.8361,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9}"
 60,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -716,8 +716,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n10/m300_20.csv,5.776167,"S* = {1, 2, 3, 4, 5, 6, 7}"
 61,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -728,8 +728,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_01.csv,4.6945,"S* = {1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14}"
 62,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -740,8 +740,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_02.csv,2.4144,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15}"
 63,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -752,8 +752,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_03.csv,3.1786,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10, 11}"
 64,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -764,8 +764,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_04.csv,2.6337,"S* = {1, 2, 3, 4, 5, 6, 9, 10, 12}"
 65,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -776,8 +776,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_05.csv,2.4858,"S* = {1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 14, 15}"
 66,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -788,8 +788,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_06.csv,3.0007,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12}"
 67,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -800,8 +800,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_07.csv,4.4102,"S* = {1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17}"
 68,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -812,8 +812,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_08.csv,3.1787,"S* = {1, 2, 3, 4, 5, 7}"
 69,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -824,8 +824,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_09.csv,3.618,"S* = {1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13}"
 70,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -836,8 +836,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_10.csv,3.5845,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10, 11}"
 71,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -848,8 +848,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_11.csv,2.464,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11}"
 72,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -860,8 +860,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_12.csv,2.7954,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13}"
 73,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -872,8 +872,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_13.csv,3.0843,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13}"
 74,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -884,8 +884,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_14.csv,3.5754,"S* = {1, 2, 3, 5, 6, 7, 8, 10}"
 75,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -896,8 +896,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_15.csv,3.5805,"S* = {1, 2, 3, 4, 5, 7, 8, 9, 10, 13}"
 76,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -908,8 +908,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_16.csv,3.2138,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13}"
 77,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -920,8 +920,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_17.csv,2.9086,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13}"
 78,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -932,8 +932,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_18.csv,2.4966,"S* = {1, 3, 4, 5, 6, 8, 10}"
 79,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -944,8 +944,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_19.csv,2.7413,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15}"
 80,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -956,8 +956,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m100_20.csv,2.7284,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}"
 81,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -968,8 +968,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_01.csv,2.89205,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11}"
 82,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -980,8 +980,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_02.csv,3.1874,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11}"
 83,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -992,8 +992,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_03.csv,3.38965,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15}"
 84,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1004,8 +1004,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_04.csv,3.1725,"S* = {1, 2, 3, 4, 5, 6, 7, 9, 10, 11}"
 85,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1016,8 +1016,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_05.csv,2.85545,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13}"
 86,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1028,8 +1028,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_06.csv,3.58745,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9}"
 87,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1040,8 +1040,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_07.csv,2.76925,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12}"
 88,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1052,8 +1052,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_08.csv,3.0233,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13}"
 89,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1064,8 +1064,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_09.csv,2.79485,"S* = {1, 2, 3, 4, 5, 6, 7, 9}"
 90,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1076,8 +1076,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_10.csv,3.1111,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12}"
 91,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1088,8 +1088,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_11.csv,3.6658,"S* = {1, 2, 3, 4, 5, 6, 7, 9}"
 92,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1100,8 +1100,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_12.csv,2.77375,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10, 11}"
 93,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1112,8 +1112,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_13.csv,3.03855,"S* = {1, 2, 3, 4, 5, 6, 7, 9, 10}"
 94,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1124,8 +1124,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_14.csv,2.94645,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15}"
 95,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1136,8 +1136,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_15.csv,2.65575,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10}"
 96,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1148,8 +1148,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_16.csv,3.07935,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12}"
 97,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1160,8 +1160,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_17.csv,3.36135,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11}"
 98,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1172,8 +1172,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_18.csv,3.8408,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15}"
 99,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1184,8 +1184,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_19.csv,3.0073,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10}"
 100,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1196,8 +1196,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m200_20.csv,3.0553,"S* = {1, 2, 3, 4, 5, 6, 7, 10}"
 101,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1208,8 +1208,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_01.csv,2.3763,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10}"
 102,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1220,8 +1220,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_02.csv,3.335067,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}"
 103,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1232,8 +1232,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_03.csv,2.8962,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}"
 104,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1244,8 +1244,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_04.csv,2.1044,"S* = {1, 2, 3, 4, 5, 7, 9, 10}"
 105,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1256,8 +1256,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_05.csv,2.5126,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}"
 106,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1268,8 +1268,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_06.csv,3.0159,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16}"
 107,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1280,8 +1280,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_07.csv,3.752067,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17}"
 108,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1292,8 +1292,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_08.csv,3.660667,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16}"
 109,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1304,8 +1304,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_09.csv,2.868733,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13}"
 110,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1316,8 +1316,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_10.csv,2.6378,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13}"
 111,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1328,8 +1328,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_11.csv,4.273633,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}"
 112,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1340,8 +1340,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_12.csv,2.220433,"S* = {1, 2, 3, 4, 5, 6, 8, 9}"
 113,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1352,8 +1352,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_13.csv,4.023167,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18}"
 114,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1364,8 +1364,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_14.csv,3.995233,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16}"
 115,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1376,8 +1376,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_15.csv,2.284533,"S* = {1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16}"
 116,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1388,8 +1388,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_16.csv,3.4418,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14}"
 117,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1400,8 +1400,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_17.csv,2.732233,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12}"
 118,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1412,8 +1412,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_18.csv,2.368167,"S* = {1, 2, 3, 4, 6, 7}"
 119,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1424,8 +1424,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_19.csv,2.882833,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11}"
 120,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1436,8 +1436,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n20/m300_20.csv,3.457067,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14}"
 121,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1448,8 +1448,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_01.csv,3.4336,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16}"
 122,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1460,8 +1460,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_02.csv,3.1214,"S* = {1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 23}"
 123,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1472,8 +1472,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_03.csv,2.7873,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17}"
 124,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1484,8 +1484,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_04.csv,3.7836,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 18}"
 125,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1496,8 +1496,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_05.csv,4.164,"S* = {1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19}"
 126,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1508,8 +1508,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_06.csv,2.9154,"S* = {1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 19}"
 127,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1520,8 +1520,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_07.csv,3.2329,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 21}"
 128,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1532,8 +1532,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_08.csv,2.9905,"S* = {1, 2, 3, 4, 6, 7, 9, 10}"
 129,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1544,8 +1544,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_09.csv,2.5951,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14}"
 130,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1556,8 +1556,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_10.csv,2.4293,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 19, 21}"
 131,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1568,8 +1568,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_11.csv,2.9702,"S* = {1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19}"
 132,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1580,8 +1580,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_12.csv,3.0575,"S* = {1, 2, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18}"
 133,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1592,8 +1592,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_13.csv,2.7964,"S* = {1, 2, 3, 4, 5, 6, 7, 9, 10, 12, 13, 14, 15, 16, 17}"
 134,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1604,8 +1604,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_14.csv,2.9008,"S* = {1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22}"
 135,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1616,8 +1616,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_15.csv,3.0814,"S* = {1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 15, 18}"
 136,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1628,8 +1628,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_16.csv,2.6098,"S* = {1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 19}"
 137,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1640,8 +1640,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_17.csv,3.7084,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 15}"
 138,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1652,8 +1652,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_18.csv,3.2355,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19}"
 139,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1664,8 +1664,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_19.csv,3.4416,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 23}"
 140,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1676,8 +1676,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m100_20.csv,3.6733,"S* = {1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 19}"
 141,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1688,8 +1688,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_01.csv,3.1647,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21, 22}"
 142,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1700,8 +1700,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_02.csv,3.29145,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17}"
 143,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1712,8 +1712,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_03.csv,2.1265,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 19}"
 144,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1724,8 +1724,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_04.csv,2.8448,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15}"
 145,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1736,8 +1736,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_05.csv,2.7136,"S* = {1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18}"
 146,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1748,8 +1748,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_06.csv,2.69655,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24}"
 147,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1760,8 +1760,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_07.csv,3.0662,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 20}"
 148,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1772,8 +1772,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_08.csv,2.5264,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16}"
 149,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1784,8 +1784,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_09.csv,2.7214,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17}"
 150,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1796,8 +1796,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_10.csv,2.9957,"S* = {1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 13, 14}"
 151,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1808,8 +1808,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_11.csv,4.10445,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23}"
 152,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1820,8 +1820,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_12.csv,2.49155,"S* = {1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22}"
 153,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1832,8 +1832,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_13.csv,3.16575,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 22}"
 154,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1844,8 +1844,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_14.csv,3.30025,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18}"
 155,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1856,8 +1856,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_15.csv,2.42045,"S* = {1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15}"
 156,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1868,8 +1868,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_16.csv,3.60195,"S* = {1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20}"
 157,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1880,8 +1880,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_17.csv,3.10065,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 24, 25}"
 158,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1892,8 +1892,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_18.csv,3.18425,"S* = {1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 23, 24}"
 159,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1904,8 +1904,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_19.csv,2.9944,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16}"
 160,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1916,8 +1916,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m200_20.csv,2.34175,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15}"
 161,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1928,8 +1928,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_01.csv,3.147933,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18}"
 162,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1940,8 +1940,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_02.csv,3.527567,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14}"
 163,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1952,8 +1952,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_03.csv,2.780267,"S* = {1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 15}"
 164,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1964,8 +1964,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_04.csv,3.440733,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20}"
 165,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1976,8 +1976,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_05.csv,3.0845,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 20}"
 166,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -1988,8 +1988,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_06.csv,2.8759,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21}"
 167,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2000,8 +2000,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_07.csv,2.872567,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 21}"
 168,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2012,8 +2012,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_08.csv,2.798767,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26}"
 169,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2024,8 +2024,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_09.csv,3.387067,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19}"
 170,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2036,8 +2036,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_10.csv,3.359733,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 18}"
 171,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2048,8 +2048,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_11.csv,3.7566,"S* = {1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17}"
 172,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2060,8 +2060,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_12.csv,3.461367,"S* = {1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18}"
 173,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2072,8 +2072,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_13.csv,3.2142,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18}"
 174,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2084,8 +2084,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_14.csv,2.4746,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18}"
 175,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2096,8 +2096,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_15.csv,2.941167,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14}"
 176,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2108,8 +2108,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_16.csv,3.221367,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18}"
 177,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2120,8 +2120,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_17.csv,3.016167,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 13}"
 178,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2132,8 +2132,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_18.csv,3.2464,"S* = {1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17}"
 179,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2144,8 +2144,8 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_19.csv,2.221433,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15}"
 180,"We run a store and want to choose which products to put on offer next, to earn as much as possible
 from upcoming customers, using only a log of past visits — for each visit, the products that were on
@@ -2156,6 +2156,6 @@ bought more than the other things shown to her that day, and nothing about how s
 items she was never shown — so for a different selection we cannot be sure what a similar customer
 would do. We would rather play it safe and pick the offer that holds up best under the least favorable
 behavior the records still allow. We want the set of products to put on offer and the revenue we can
-count on from it. End your answer with one line `ASSORTMENT=[...]` — a JSON array of the offered
-product indices (1-based).
+count on from it. End your answer with two lines: `ASSORTMENT=[...]` — a JSON array of the offered
+product indices (1-based) — and `VALUE=<v>`, the revenue you can count on from that offer.
 ",Revenue Management,Data/n30/m300_20.csv,3.047867,"S* = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20}"
