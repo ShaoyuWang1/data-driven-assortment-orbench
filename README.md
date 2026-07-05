@@ -60,6 +60,48 @@ optimum of the data-driven problem on the transactions, which in general differs
 model's optimal assortment. In every instance the optimal assortment includes the most profitable
 (highest-priced) product.
 
+## Testing an LLM on an instance
+
+The problem statement (`text_description.md`) and the instance data (`Data/n../m..._..csv`) are
+stored separately. To evaluate a model on one instance, concatenate them into a single prompt, ask
+for the optimal assortment and value, then compare the answer with the `Optimal Value` for that
+Problem ID in `dataset.csv`.
+
+**Copy-paste prompt** — paste the contents of `text_description.md`, then one instance CSV, then the
+request:
+
+```
+<contents of text_description.md>
+
+Here is the instance data (one row per transaction; columns price_1..price_n, offered_1..offered_n, choice):
+<contents of Data/n10/m100_01.csv>
+
+Report the optimal assortment (which products to offer) and the resulting optimal value.
+```
+
+**Or via an API** (Anthropic Python SDK shown; any provider works the same way):
+
+```python
+import anthropic
+client = anthropic.Anthropic()
+
+prompt = (
+    open("text_description.md").read()
+    + "\n\nHere is the instance data (CSV):\n\n"
+    + open("Data/n10/m100_01.csv").read()
+    + "\n\nReport the optimal assortment and the resulting optimal value."
+)
+resp = client.messages.create(
+    model="claude-sonnet-5",          # or any capable model / provider
+    max_tokens=8000,
+    messages=[{"role": "user", "content": prompt}],
+)
+print(resp.content[0].text)
+```
+
+Then compare the model's reported optimal value with the `Optimal Value` for that instance in
+`dataset.csv`.
+
 ## Data generation
 
 The transaction data are synthetic, produced by `generate_benchmark.py`. For each instance:
